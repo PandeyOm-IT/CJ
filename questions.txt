@@ -1,0 +1,3 @@
+write a java program to accept 2 numbers from the user and print the tables of all numbers between them
+WAJP to accept a number from the user and check if it is prime number 
+WAJP to accept a decimal number from the user and convert it into  a binary format
